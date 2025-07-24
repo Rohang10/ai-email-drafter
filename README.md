@@ -28,7 +28,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/rohang10/EmailDraft-generator(AI).git
+git clone https://github.com/rohang10/ai-email-drafter.git
 npm install
 cd EmailDraft-generator(AI)/backend
 npm run dev # to start backend
